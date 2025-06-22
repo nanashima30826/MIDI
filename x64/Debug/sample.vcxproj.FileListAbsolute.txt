@@ -1,0 +1,5 @@
+C:\Users\sashi\OneDrive\デスクトップ\DX21_Sample15_AYO\x64\Debug\sample.exe
+C:\Users\sashi\OneDrive\デスクトップ\DX21_Sample15_69\x64\Debug\sample.exe
+C:\Users\sashi\OneDrive\デスクトップ\DX21_Sample15_623\x64\Debug\sample.exe
+C:\Users\sashi\OneDrive\デスクトップ\DX21課題ゲーム\x64\Debug\sample.exe
+C:\Users\sashi\Downloads\DX21課題ゲーム\DX21課題ゲーム\x64\Debug\sample.exe
