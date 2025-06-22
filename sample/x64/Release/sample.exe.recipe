@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\MIDI\MIDI\x64\Release\sample.exe</FullPath>
+      <FullPath>C:\MIDIs\x64\Release\sample.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
